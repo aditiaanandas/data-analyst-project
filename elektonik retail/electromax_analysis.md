@@ -252,7 +252,7 @@ Sebagai contoh, analisis ini **tidak** menyatakan bahwa pendapatan menurun karen
 - Perubahan bauran produk (product mix).
 - Perubahan aktivitas marketing.
 
-Penjelasan-penjelasan tersebut memerlukan data tambahan dan analisis khusus.
+Penjelasan-penjelasan tersebut memerlukan analisis lebih dalam.
 
 Kesimpulan yang disajikan di sini karenanya dibatasi pada apa yang dapat didukung oleh data **pendapatan, transaksi, profitabilitas, dan kategori produk** yang tersedia.
 
